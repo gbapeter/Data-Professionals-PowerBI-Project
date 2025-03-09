@@ -41,6 +41,8 @@ Angola have the highest work/life balance (10.0), followed by Thailand, Uruguay 
 Average Work/Life Balance by Skills
 SAS has the highest work/life balance of 8.0, this could be as a result of the predictability of its use, with task being well defined and automated. SAS is followed by Excel and Qlik Sense Script (7.0) and DAX 6.7. DAX having a lower work/life balance could be as a result of its steep learning curve and complexity.
 ## Career Switching Analysis
+![Image](https://github.com/user-attachments/assets/d0be5508-985c-4ee5-8eb1-8faf057f8dc6?raw=true)
+
 58.8% of the respondents switched to a data profession while 41.2% started their career in data.
 ### Top Roles for Career Switchers
 An overwhelming majority of career switchers (244) switched to Data Analytics, 45 people were still either students or looking for a job and 21 switched to Data Engineering. Data analytics dominating in this regard could be as a result of it having a typically lower entry barrier than other roles.
