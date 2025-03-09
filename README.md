@@ -28,6 +28,8 @@ Data professionals with PhDs had the highest median yearly salary of $96,000, fo
 ### Median Yearly Salary by Age
 Data professionals between the ages of 55 - 61 were the highest paid, having a median yearly salary of $98,000. This could be as a result of their years of experience,  as this group of people are close to retirement and must have worked for a long period of time. Data professionals between 32 - 39 years were the second highest paid ($67,000) and were followed by those between 40 - 46 years old. Notably,  those between 18-24 years and above 62years were the least paid. This implies that data professionals just starting their careers and those at the end of their careers get paid the least.
 ## Work/Life Balance Analysis
+![Image](https://github.com/user-attachments/assets/7218df33-0ad2-434f-b826-7c830730c914?raw=true)
+
 ### Average Work/Life Balance by Role
 Database Administrators (DBA) and Directors have the highest average work/life balance (10.0)  followed by Systems Configuration (9.0) and Managers with an average work/life balance of 7.0. This indicates that more specialized roles, top and mid level positions have a relatively higher flexibility than other roles among data professionals.
 ### Median Yearly Salary vs Work/Life Balance
