@@ -52,6 +52,8 @@ The tech industry is the top destination for career switchers (this could be as 
 Most respondents (265) neither found it difficult or easy to break into data, 155 found it difficult,  130 found it easy, 44 found it very difficult and 27 found it very easy. This indicates that breaking into data is moderately difficult but achievable. Notably,  more career switchers (135) found it difficult and very difficult to break into data than non-career switchers(64).
 A similar trend in difficulty levels was observed across industries, skills and roles
 ## Workers Satisfaction and Happiness Analysis
+![Image](https://github.com/user-attachments/assets/f0dfb715-bc35-413d-8276-b378ea3d0e4d?raw=true)
+
 ### Top reasons for Job Change
 A better Salary is the top reason for employees to consider changing their job, followed by a good work/life balance and good culture tying with remote work. This implies that employee retention can be fostered by paying competitive salaries, improving work/life balance and fostering good culture at the place of work. Also, remote options should be available if possible.
 ### Median Salary vs Happiness Level Based on Learning Opportunities
@@ -62,4 +64,6 @@ Aerospace, Biotech, Defense, Logistics and Warehousing and Poultry offered the h
 Colombia has the highest upward mobility score (8.33), followed by Uzb and Vietnam with 8.0 and Chile and Philippines both having a score of 7.50.
 ### Learning Satisfaction by Skills
 Altery offers the highest learning opportunities with a satisfaction score of 10.0, follow by Excel (6.75) and SAS (6.67).
+# Conclusion
+This project improved my PowerBI skills and provided valuable insights into data professions. The findings from the analysis serve as a guide for aspiring data professionals to choose a career path and for organizations to make changes that will foster workers retention and boost productivity. Aspiring data professionals can prioritize acquiring skills for roles and industries with high salaries, a good work/life balance, a low entry barrier and high workers' satisfaction. Those open to relocation can also migrate to countries with more favourable conditions.
 
