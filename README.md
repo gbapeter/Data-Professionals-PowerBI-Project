@@ -1,7 +1,7 @@
 # Introduction
 An in-depth analysis of a dataset on data professionals to offer insights and guidance for aspiring data nerds. This project explores the salaries of data professionals, the work/life balance, difficulty level, happiness level and workers' satisfaction.
 # Background
-This project was born from a desire to test my powerBI skills and a quest to choose the right career path among data professionals. The dataset was gotten from Alex the Analyst, and was selected because it was full of inconsistent entries, typographcal errors, among other issues, offering a unique opportunity to put my data cleaning skills to test and learn new ways of handling certain issues in a dataset.
+This project was born from a desire to test my powerBI skills and a quest to choose the right data profession. The dataset was gotten from Alex the Analyst, and was selected because it was full of inconsistent entries, typographcal errors, among other issues, offering a unique opportunity to put my data cleaning skills to test and learn new ways of handling certain issues in a dataset.
 # Tools I Used
 For the in-depth analysis, I harnessed the power of the following tools
 - **Power Query:** A data cleaning tool incorporated in PowerBI
