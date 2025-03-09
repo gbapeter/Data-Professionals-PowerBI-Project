@@ -13,6 +13,8 @@ For the in-depth analysis, I harnessed the power of the following tools
 - Many values were replaced to fix inconsistent entries and spelling errors.
 # Key Insights
 ## Salary Analysis
+![Image](https://github.com/user-attachments/assets/387c8512-ceed-4b1f-9dba-d5af3347e093?raw=true)
+
 ### Top Paying Roles
 Managers and directors were the top paid, earning a median yearly salary of $162,500 and $141,500 respectively. This shows that organizations place a premium on skills like leadership, decision-making and oversight. This highlights the importance of acquiring both technical and soft skills. Their high earnings could also be as a result of their responsibilities and years of experience. AI software Engineers and Data Scientists were the third and fourth most paid roles respectively.
 ### Top Paying Industries
